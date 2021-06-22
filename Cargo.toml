@@ -1,0 +1,11 @@
+[package]
+name = "image-metadata"
+version = "0.1.0"
+authors = ["Thomas Laroche <tho.laroche@gmail.com>"]
+edition = "2018"
+description = "Read and write image metadata"
+keywords = ["image", "metadata"]
+repository = "https://github.com/Mikayex/image-metadata"
+license = "MIT"
+
+[dependencies]
